@@ -272,8 +272,7 @@ uuid: {UUID}"""
 
 
 
-    # Extract domains and generate sub.txt
-    await extract_domains()
+
 
 
 
